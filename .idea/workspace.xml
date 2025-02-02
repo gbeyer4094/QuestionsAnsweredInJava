@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f1a7247-d423-46a7-bcb5-7b4687f8e5e4" name="Changes" comment="Created Element Matching">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NumberOfOccurences.java" afterDir="false" />
+    <list default="true" id="1f1a7247-d423-46a7-bcb5-7b4687f8e5e4" name="Changes" comment="Created NUmber of Occurrences">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PalindromeChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,33 +51,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.NumberOfOccurances">
-    <configuration name="CypherNextLetter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CypherNextLetter" />
-      <module name="QuestionsAnsweredInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CypherReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.CypherReverse" />
-      <module name="QuestionsAnsweredInJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReverseArray">
     <configuration name="ElementMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ElementMatching" />
       <module name="QuestionsAnsweredInJava" />
@@ -116,13 +91,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PalindromeChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.PalindromeChecker" />
+      <module name="QuestionsAnsweredInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ReverseArray" />
+      <module name="QuestionsAnsweredInJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.PalindromeChecker" />
         <item itemvalue="Application.NumberOfOccurances" />
         <item itemvalue="Application.ElementMatching" />
         <item itemvalue="Application.InsertionSort" />
-        <item itemvalue="Application.CypherNextLetter" />
-        <item itemvalue="Application.CypherReverse" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738460753050</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created NUmber of Occurrences">
+      <created>1738462614384</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738462614384</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +203,7 @@
     <MESSAGE value="Initial coding" />
     <MESSAGE value="Added several questionable files" />
     <MESSAGE value="Created Element Matching" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Element Matching" />
+    <MESSAGE value="Created NUmber of Occurrences" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created NUmber of Occurrences" />
   </component>
 </project>
